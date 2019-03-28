@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '3.1.6'
 gem 'will_paginate-bootstrap4'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
@@ -40,6 +41,7 @@ gem 'sprockets-rails'
 # gem 'bootstrap', '~> 4.1'
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
+gem 'rails-controller-testing'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
